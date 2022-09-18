@@ -1,6 +1,6 @@
 <h3 align="center"><b>✍🏻Certifications</b></h3>
 </br>
-![aws-certified-solutions-architect-associate-2](https://user-images.githubusercontent.com/42131472/190886108-a8fae044-d92d-495b-aaf2-a49658b248f2.png)
+![image](https://user-images.githubusercontent.com/42131472/190886108-a8fae044-d92d-495b-aaf2-a49658b248f2.png)
 </br>
 
 <h3 align="center"><b>📚Stacks</b></h3>
