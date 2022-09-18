@@ -1,6 +1,6 @@
 <h3 align="center"><b>✍🏻Certifications</b></h3>
-</br>
 <p align="center">
+
 ![](https://velog.velcdn.com/images/ptah0414/post/a7fbec0b-b06f-43d3-951e-390d00022e75/image.png)
 </p>
 </br>
