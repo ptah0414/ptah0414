@@ -1,10 +1,3 @@
-<h3 align="center"><b>✍🏻 Certifications</b></h3>
-</br>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/42131472/190886295-d26eb361-eb4a-4e04-ad08-488e7e8bd825.png">
-</p>
-</br>
-
 <h3 align="center"><b>📚 Stacks</b></h3>
 </br>
 <p align="center">
@@ -23,8 +16,13 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"></a> &nbsp 
 </p>
 
-
-
+</br>
+<h3 align="center"><b>✍🏻 Certifications</b></h3>
+</br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/42131472/190886540-2959e227-0b7c-4a7c-b9bf-011b586b7dea.png">
+</p>
+</br>
 
 <!--
 **ptah0414/ptah0414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
