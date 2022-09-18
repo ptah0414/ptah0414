@@ -1,7 +1,7 @@
 <h3 align="center"><b>✍🏻Certifications</b></h3>
 </br>
 <p align="center">
-![image](https://user-images.githubusercontent.com/42131472/190886155-d68673ab-6a82-4f52-afb3-b7649116a54b.png)
+![](https://velog.velcdn.com/images/ptah0414/post/a7fbec0b-b06f-43d3-951e-390d00022e75/image.png)
 </p>
 </br>
 
