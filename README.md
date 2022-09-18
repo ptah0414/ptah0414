@@ -1,7 +1,7 @@
 <h3 align="center"><b>✍🏻Certifications</b></h3>
 </br>
 <p align="center">
-![image](https://user-images.githubusercontent.com/42131472/190886056-0eacfb54-c951-4345-8043-f3a0d51ef0a2.png)
+![aws-certified-solutions-architect-associate-2](https://user-images.githubusercontent.com/42131472/190886108-a8fae044-d92d-495b-aaf2-a49658b248f2.png)
 </p>
 
 <h3 align="center"><b>📚Stacks</b></h3>
