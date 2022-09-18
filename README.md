@@ -1,11 +1,11 @@
-<h3 align="center"><b>✍🏻Certifications</b></h3>
+<h3 align="center"><b>✍🏻 Certifications</b></h3>
+</br>
 <p align="center">
-
-![](https://velog.velcdn.com/images/ptah0414/post/a7fbec0b-b06f-43d3-951e-390d00022e75/image.png)
+<img src="https://user-images.githubusercontent.com/42131472/190886295-d26eb361-eb4a-4e04-ad08-488e7e8bd825.png">
 </p>
 </br>
 
-<h3 align="center"><b>📚Stacks</b></h3>
+<h3 align="center"><b>📚 Stacks</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"></a> &nbsp
