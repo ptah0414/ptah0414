@@ -1,6 +1,8 @@
 <h3 align="center"><b>✍🏻Certifications</b></h3>
 </br>
-![image](https://user-images.githubusercontent.com/42131472/190886108-a8fae044-d92d-495b-aaf2-a49658b248f2.png)
+<p align="center">
+![image](https://user-images.githubusercontent.com/42131472/190886155-d68673ab-6a82-4f52-afb3-b7649116a54b.png)
+</p>
 </br>
 
 <h3 align="center"><b>📚Stacks</b></h3>
