@@ -1,6 +1,7 @@
 <h3 align="center"><b>📚 Stacks</b></h3>
 </br>
 <p align="center">
+<img src="https://img.shields.io/badge/ansible-%23EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white" /></a> &nbsp
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white"></a> &nbsp
