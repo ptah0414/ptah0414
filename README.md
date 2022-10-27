@@ -1,6 +1,7 @@
 <h3 align="center"><b>📚 Stacks</b></h3>
 </br>
 <p align="center">
+<img src="https://img.shields.io/badge/terraform-%23623CE4.svg?&style=for-the-badge&logo=terraform&logoColor=white" /></a> &nbsp
 <img src="https://img.shields.io/badge/ansible-%23EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white" /></a> &nbsp
 <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white" /></a> &nbsp
 
